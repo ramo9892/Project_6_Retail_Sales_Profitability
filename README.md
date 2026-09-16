@@ -219,14 +219,29 @@ ranging from approximately 12% to 14%.
 ## 📊 Visualizations
 
 The project includes visual analysis for:
-
 1. Sales vs Profit by Category
 2. Profit Margin by Sub-Category
 3. Discount vs Profit Margin
 4. Profit Margin by Region
 5. Monthly Sales & Profit Trend
 6. Top & Bottom 10 Products by Profit
+### 1. Sales vs Profit by Category
+![Sales vs Profit](visualizations/category_performance.png)
 
+### 2. Profit Margin by Sub-Category
+![Sub-Category Margin](visualizations/subcategory_margin.png)
+
+### 3. Discount vs Profit Margin
+![Discount vs Profit](visualizations/discount_profit.png)
+
+### 4. Profit Margin by Region
+![Regional Profitability](visualizations/regional_profitability.png)
+
+### 5. Monthly Sales & Profit Trend
+![Monthly Trend](visualizations/monthly_trend.png)
+
+### 6. Top & Bottom 10 Products by Profit
+![Top and Bottom Products](visualizations/top_bottom_products.png)
 ---
 
 ## 💡 Business Recommendations
